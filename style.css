@@ -27,3 +27,21 @@ body {
   footer {
     margin-top: auto;
   }
+.mail {
+font-size: 1.5 rem;
+width: 200px;
+
+}
+.pass{
+    display: flex;
+    align-items: center;
+}
+.password{
+    font-size: 1.5 rem;
+width: 200px;
+
+}
+.bi {
+transform: translateX(-35px);
+cursor: pointer
+}
